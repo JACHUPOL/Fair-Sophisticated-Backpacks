@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "SNS",
+    "ANA",
     "CEC",
     "SHS"
   ],
@@ -17,6 +17,9 @@
     },
     "C": {
       "item": "minecraft:netherite_ingot"
+    },
+    "A": {
+      "item": "minecraft:diamond_block"
     },
     "H": {
       "item": "minecraft:heart_of_the_sea"
