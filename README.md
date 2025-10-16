@@ -1,1 +1,1 @@
-Use with https://modrinth.com/mod/reciperemover
+
